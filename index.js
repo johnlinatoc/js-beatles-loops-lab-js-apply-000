@@ -37,3 +37,14 @@ const johnLennonFacts = (facts) => {
   
   return facts;
 }
+
+const iLoveTheBeatles = (n) => {
+  let arr1 = [];
+  
+  do {
+    
+  }
+}
+
+
+
