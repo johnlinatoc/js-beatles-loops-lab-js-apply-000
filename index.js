@@ -25,9 +25,11 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-let i = 0
+
 
 const johnLennonFacts = (facts) => {
+ let i = 0;
+ 
   while (i > facts.length) {
     facts[i] += "!!!";
     i++;
