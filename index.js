@@ -46,7 +46,7 @@ const iLoveTheBeatles = (n) => {
     n++;
   } while (n<15); 
   
-  console.log(arr1);
+  return arr1;
 }
 
 
