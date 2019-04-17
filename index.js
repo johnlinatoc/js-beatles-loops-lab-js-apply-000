@@ -35,5 +35,5 @@ const johnLennonFacts = (facts) => {
     i++;
   }
   
-  console.log(facts);
+  return facts;
 }
