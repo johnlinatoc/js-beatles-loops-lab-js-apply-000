@@ -43,9 +43,7 @@ const iLoveTheBeatles = (n) => {
   
   do {
     arr1.push("I love the Beatles!");
-  } while {
-    
-  }
+  } while (n<15) 
 }
 
 
